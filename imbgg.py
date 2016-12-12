@@ -33,8 +33,6 @@ def hot_list(end):
     """
     Construit une liste d'id en fonction des jeux populaires sur BGG
     int end : dernière page du parsing, 50 jeux par page
-
-    TODO: Améliorer le scraping des id de jeux
     """
     i = 1
     list_id = []
@@ -44,30 +42,23 @@ def hot_list(end):
         # GET de la page hot
         doc = urllib.request.urlopen(url).read()
         # Parsing de la page
-        soup = BeautifulSoup(doc, 'lxml')
-
-        prev_link = ''
-        id_jeu = ''
-        prev_id = ''
-
-        # On récupère tous les liens de la page
-        # TODO: Ne récupérer que les liens qui nous intéressent
-        # L'idée c'est que les ids qu'on veut sont en double sur la page
-        # Donc on récupère les ids en double... Je sais c'est triste
-        for link in soup.find_all('a'):
-            link = str(link)
-            re_link = re.compile('\"/boardgame/[0-9]')
-            if re_link.search(link):
-                re_id = re.search("[0-9]+", link)
-                id_jeu = re_id.group()
-                if id_jeu == prev_id:
-                    list_id.append(id_jeu)
-                prev_id = id_jeu
+        page = BeautifulSoup(doc, 'lxml')
+        # table des hot items
+        table = page.find(id="collectionitems")
+        # td qui contient entre autres le lien du jeu
+        for td in table.find_all("td", class_="collection_thumbnail"):
+            # lien du jeu
+            a = td.find('a')
+            link = a['href']
+            # Récupération de l'id
+            re_id = re.search("[0-9]+", link)
+            id_jeu = re_id.group()
+            list_id.append(id_jeu)
         i += 1
         # Sleep de 5 secondes pour respecter les restrictions de BGG
-        time.sleep(5)
+        if end != 1:
+            time.sleep(5)
     return list_id
-
 
 # Ouverture d'un fichier où on stocke les noms d'utilisateurs
 usernames = open("usernames.txt", 'w')
