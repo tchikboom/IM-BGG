@@ -1,0 +1,6 @@
+Conflits avec le nombres de requetes possibles sans se faire jeter. On a donc ajouté des sleep de 5sec pour chaque bloc de 32 jeux.
+
+On récupère les commentaires et on les trie par note.
+
+Pour chaque commentaire, on fait une autre requête sur le nom de l'utilisateur ayant posté le commentaire pour récupérer son pays.
+
