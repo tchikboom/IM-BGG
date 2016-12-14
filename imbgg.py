@@ -63,6 +63,9 @@ def hot_list(end):
 # Ouverture d'un fichier où on stocke les noms d'utilisateurs
 usernames = open("usernames.txt", 'w')
 
+#Création de la liste d'utilisateur
+users = []
+
 # Création d'une structure XML où on stocke les commentaires triés par note
 xml_coms = etree.Element("comments")
 
@@ -104,6 +107,7 @@ while compteur_jeux < max_jeux:
         com = etree.SubElement(xml_coms[rating], "comment")
         com.text = comment.get('value')
         usernames.write(user + '\n')
+        users.append(user)
 
     compteur_jeux += 32
 
@@ -112,6 +116,14 @@ while compteur_jeux < max_jeux:
 
 bar.update(max_jeux)
 print('\n', end="")
+
+#Stocke le contenu de la page xml dans fiche_user 
+for user in users:
+	lien = str("https://www.boardgamegeek.com/xmlapi2/user?name=" + user)
+	fich = str(user + ".xml")
+	br.open(lien)
+	fiche_user = br.response().read()
+
 
 # Impression de la structure xml
 et = etree.ElementTree(xml_coms)
