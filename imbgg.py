@@ -9,7 +9,6 @@ from bs4 import BeautifulSoup
 import re
 import urllib.request
 
-
 def request_builder(start):
     """
     Construit l'URL nécessaire pour la requête GET
@@ -102,12 +101,23 @@ while compteur_jeux < max_jeux:
 
         content = comment.get('value')
         user = comment.get('username')
+        lien = str("http://www.boardgamegeek.com/xmlapi2/user?name=" + user)
+        # br.open(lien)
+        # fiche_user = br.response().read()
+        xml_user = etree.parse(lien)
 
+        # Boucle sur chaque commentaire
+        location= xml_user.xpath("/user/country")
+        country = location[0].get('value')
+        print (country)
+        time.sleep(5)
         # Stockage des résultats
         com = etree.SubElement(xml_coms[rating], "comment")
         com.text = comment.get('value')
+        com.set("location", country)
         usernames.write(user + '\n')
-        users.append(user)
+        if user not in users:
+            users.append(user)
 
     compteur_jeux += 32
 
@@ -116,14 +126,6 @@ while compteur_jeux < max_jeux:
 
 bar.update(max_jeux)
 print('\n', end="")
-
-#Stocke le contenu de la page xml dans fiche_user 
-for user in users:
-	lien = str("https://www.boardgamegeek.com/xmlapi2/user?name=" + user)
-	fich = str(user + ".xml")
-	br.open(lien)
-	fiche_user = br.response().read()
-
 
 # Impression de la structure xml
 et = etree.ElementTree(xml_coms)
