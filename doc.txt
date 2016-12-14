@@ -1,6 +1,21 @@
-Conflits avec le nombres de requetes possibles sans se faire jeter. On a donc ajouté des sleep de 5sec pour chaque bloc de 32 jeux.
+Le projet est de travailler sur les données du site BoardGameGeek, qui rassemble des données sur des jeux de société et de plateau.
+Le site fournit une API qui permet d'obtenir des fichiers XML et donc de réaliser des requêtes dessus.
+
+Il y a cependants conflit avec le nombres de requetes possibles sans se faire jeter. On a donc ajouté des sleep de 5sec pour chaque bloc de 32 jeux.
+
+Parmi les données fournit: le nom du jeux, des noms alternatif, des statistiques(moyenne, nombre de votes par les joueurs, etc.), et des commentaires d'utilisateurs et des information sur les types et mécaniques de jeu(dés, cartes, etc.).
+
+TODO ajouter le nom du jeu (name @primary=true)
 
 On récupère les commentaires et on les trie par note.
-
 Pour chaque commentaire, on fait une autre requête sur le nom de l'utilisateur ayant posté le commentaire pour récupérer son pays.
 
+Dans un fichier indépendant, on souhaite réunir les stats des jeux pour lesquels on a pris les commentaires.
+Ces stats incluent :
+  nombre de joueur
+  tps de jeux
+  mécaniques
+  catégories (à def)
+  note moyennes pondéree
+  poids (degré de difficulté du jeu)
+  min age
