@@ -1,0 +1,17 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT comments (note)+>
+<!ATTLIST comments
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT note (comment)*>
+<!ATTLIST note
+  xmlns CDATA #FIXED ''
+  value CDATA #REQUIRED>
+
+<!ELEMENT comment (#PCDATA)>
+<!ATTLIST comment
+  xmlns CDATA #FIXED ''
+  game NMTOKEN #REQUIRED
+  game_id CDATA #REQUIRED
+  location CDATA #REQUIRED>
