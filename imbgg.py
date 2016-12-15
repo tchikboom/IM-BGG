@@ -60,10 +60,10 @@ def hot_list(end):
     return list_id
 
 # Ouverture d'un fichier où on stocke les noms d'utilisateurs
-usernames = open("usernames.txt", 'w')
+#usernames = open("usernames.txt", 'w')
 
 #Création de la liste d'utilisateur
-users = []
+#users = []
 
 # Création d'une structure XML où on stocke les commentaires triés par note
 xml_coms = etree.Element("comments")
@@ -86,6 +86,12 @@ while compteur_jeux < max_jeux:
     xml_in = etree.parse(request)
     bar.update(compteur_jeux)
 
+    #Récupération du nom du jeu et de son id
+    jeu = xml_in.xpath('/items/item/name[@type="primary"]/@value')[0]
+    id_jeu = xml_in.xpath('/items/item/@id')[0]
+    #print (jeu, id_jeu)
+    
+    
     # Boucle sur chaque commentaire
     for comment in xml_in.xpath("/items/item/comments/comment"):
         rating = comment.get('rating')
@@ -114,10 +120,12 @@ while compteur_jeux < max_jeux:
         # Stockage des résultats
         com = etree.SubElement(xml_coms[rating], "comment")
         com.text = comment.get('value')
+        com.set("game", jeu)
+        com.set("game_id", id_jeu)
         com.set("location", country)
-        usernames.write(user + '\n')
-        if user not in users:
-            users.append(user)
+        #usernames.write(user + '\n')
+        #if user not in users:
+        #    users.append(user)
 
     compteur_jeux += 32
 
