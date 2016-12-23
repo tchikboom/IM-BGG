@@ -55,8 +55,8 @@ bar.update(0)
 hotlist = hot_list(1)
 i = 0
 # Boucle de parsing sur BGG
-for id in hotlist[0]:
-    request = request_builder(13)
+for id in hotlist[0:50]:
+    request = request_builder(id)
     # Parsing XML des infos d'une série de jeux
     xml_in = etree.parse(request)
 
