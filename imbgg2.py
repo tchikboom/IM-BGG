@@ -43,6 +43,7 @@ def request_builder(id):
 
 # Création d'une structure XML où on stocke les commentaires triés par note
 xml_coms = etree.Element("comments")
+xml_stats  = etree.Element("stats")
 
 # Création des éléments "notes", de 0 à 10
 for i in range(11):
@@ -108,7 +109,6 @@ for id in hotlist[0:50]:
         com.set("location", country)
 
         # Stockage des informations des stats
-        xml_stats  = etree.Element("stats")
         jeu        = etree.SubElement(xml_stats, "jeu")
         nom        = etree.SubElement(jeu, "nom")
         moyenne    = etree.SubElement(jeu, "moyenne")
