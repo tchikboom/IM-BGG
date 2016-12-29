@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>jVectorMap demo</title>
+  <link rel="stylesheet" href="jquery-jvectormap-2.0.3.css" type="text/css" media="screen"/>
+  <script src="jquery.js"></script>
+  <script src="jquery-jvectormap-2.0.3.min.js"></script>
+  <script src="jquery-jvectormap-world-mill.js"></script>
+  <script src="moyenne.js"></script>
+</head>
+<body>
+  <div id="world-map" style="width: 600px; height: 400px"></div>
+  <script>
+    $(function(){
+      $('#world-map').vectorMap({
+  map: 'world_mill',
+  series: {
+    regions: [{
+      values: moyenne,
+      scale: ['#C8EEFF', '#0071A4'],
+      normalizeFunction: 'polynomial'
+    }]
+  },
+  onRegionTipShow: function(e, el, code){
+    el.html(el.html()+'<br>(Moyenne - '+moyenne[code]+')<meter value="'+moyenne[code]+'" min="0" max="10">moyenne</meter><br><br/>');
+	el.html(el.html()+' (Moyenne - '+moyenne[code]+')<meter value="'+moyenne[code]+'" min="0" max="10">moyenne</meter><br><br/>');
+  }
+});
+    });
+  </script>
+</body>
+</html>
