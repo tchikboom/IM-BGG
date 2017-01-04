@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar ns="" xmlns="http://relaxng.org/ns/structure/1.0" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+  <start>
+    <element name="stats">
+      <oneOrMore>
+        <element name="jeu">
+          <attribute name="id">
+            <data type="integer"/>
+          </attribute>
+          <element name="nom">
+            <attribute name="value"/>
+          </element>
+          <element name="moyenne">
+            <attribute name="value">
+              <data type="decimal"/>
+            </attribute>
+          </element>
+          <element name="nb_joueurs">
+            <element name="min">
+              <attribute name="value">
+                <data type="integer"/>
+              </attribute>
+            </element>
+            <element name="max">
+              <attribute name="value">
+                <data type="integer"/>
+              </attribute>
+            </element>
+          </element>
+          <element name="temps_jeu">
+            <attribute name="value">
+              <data type="integer"/>
+            </attribute>
+          </element>
+          <element name="age_minimum">
+            <attribute name="value">
+              <data type="integer"/>
+            </attribute>
+          </element>
+          <element name="complexite">
+            <attribute name="value">
+              <data type="decimal"/>
+            </attribute>
+          </element>
+          <element name="mecaniques">
+            <oneOrMore>
+              <element name="mecanique">
+                <attribute name="value"/>
+              </element>
+            </oneOrMore>
+          </element>
+        </element>
+      </oneOrMore>
+    </element>
+  </start>
+</grammar>

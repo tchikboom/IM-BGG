@@ -1,0 +1,59 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT stats (jeu)+>
+<!ATTLIST stats
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT jeu (nom,moyenne,nb_joueurs,temps_jeu,age_minimum,complexite,
+               mecaniques)>
+<!ATTLIST jeu
+  xmlns CDATA #FIXED ''
+  id CDATA #REQUIRED>
+
+<!ELEMENT nom EMPTY>
+<!ATTLIST nom
+  xmlns CDATA #FIXED ''
+  value CDATA #REQUIRED>
+
+<!ELEMENT moyenne EMPTY>
+<!ATTLIST moyenne
+  xmlns CDATA #FIXED ''
+  value CDATA #REQUIRED>
+
+<!ELEMENT nb_joueurs (min,max)>
+<!ATTLIST nb_joueurs
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT temps_jeu EMPTY>
+<!ATTLIST temps_jeu
+  xmlns CDATA #FIXED ''
+  value CDATA #REQUIRED>
+
+<!ELEMENT age_minimum EMPTY>
+<!ATTLIST age_minimum
+  xmlns CDATA #FIXED ''
+  value CDATA #REQUIRED>
+
+<!ELEMENT complexite EMPTY>
+<!ATTLIST complexite
+  xmlns CDATA #FIXED ''
+  value CDATA #REQUIRED>
+
+<!ELEMENT mecaniques (mecanique)+>
+<!ATTLIST mecaniques
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT min EMPTY>
+<!ATTLIST min
+  xmlns CDATA #FIXED ''
+  value CDATA #REQUIRED>
+
+<!ELEMENT max EMPTY>
+<!ATTLIST max
+  xmlns CDATA #FIXED ''
+  value CDATA #REQUIRED>
+
+<!ELEMENT mecanique EMPTY>
+<!ATTLIST mecanique
+  xmlns CDATA #FIXED ''
+  value CDATA #REQUIRED>
