@@ -1,0 +1,46 @@
+<HTML>
+	<head>
+		<html lang="fr">
+		<meta http-equiv="content-type" content="text/html; charset=windows-1250">		
+		
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+		<script type="text/javascript" src="https://datatables.net/release-datatables/media/js/jquery.js"></script>
+		<script type="text/javascript" src="https://datatables.net/release-datatables/media/js/jquery.dataTables.js"></script>
+		<script type="text/javascript" src="https://datatables.net/release-datatables/extensions/ColVis/js/dataTables.colVis.js"></script>
+
+		<link href="https://cdn.datatables.net/1.10.7/css/jquery.dataTables.css" rel="stylesheet" type="text/css"/>
+		<link href="https://datatables.net/release-datatables/extensions/ColVis/css/dataTables.colVis.css" rel="stylesheet" type="text/css"/>
+		
+	<script type="text/javascript">
+			$(document).ready(function() {
+				$('#example').DataTable( {
+					"bStateSave": false, //localStorage
+					//"scrollY": "60%",
+					//"scrollX": "40%",
+					"paging": false, //affichage du tableau en plusieurs page
+					"sDom": 'C<"clear">lfrtip', //initialisation de colvis (qui permet la selection des colonnes)
+					"oColVis": { 
+						"activate": "click",
+						"restore": "Restaurer",
+						"showAll": "Tout afficher",
+						"showNone": "Tout cacher",
+						"buttonText": "Filtrage des colonnes"
+					
+					},
+					"aoColumnDefs": [
+						{ "bVisible": false, "aTargets": [ ] } //choix des colonnes cachées par défaut
+					],
+					
+					});
+			});
+	</script>
+	</head>
+	<body>
+		<div id="tableauu">
+			<script type="text/javascript" src="tableau.js"></script> 
+			<script>
+				$("#tableauu").html(table);
+			</script>
+		</div>
+	</body>
+</HTML>

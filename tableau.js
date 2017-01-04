@@ -1,0 +1,44 @@
+var table = `
+<HTML>
+<body>
+	<div class="container">
+		<section>
+<H4 ALIGN=CENTER><font color=000080><b>COMMENTAIRES</b></font color></H4>
+<table id="example" class="display" cellspacing="0" width="100%">
+<thead> 
+<tr> 
+<th>Jeu</th> 
+<th>id du jeu</th> 
+<th>Note du joueur</th> 
+<th>Localisation</th> 
+<th>Commentaire</th> 
+</tr> 
+</thead> 
+<tbody>
+<tr><tr></tr><tr><td>War of the Ring (first edition)</td><td>9609</td>
+<td>1</td><td>United States</td><td>Laughably broken (we were literally laughing at how bad this game is): the Forces of Sauron just stroll over the Fellowship time and again, game after game ("Want to see that again? There. Again? There....).  How can you NOT laugh?!</td></tr><tr><td>The Resistance: Avalon</td><td>128882</td>
+<td>1</td><td>United States</td><td>151117  Rating just the Merlin mechanic.  I really hate it now in minds eye.  You don't play a bleeping game just to have it end on coin flip.  130923 This rating might go up in the future if I ever get bored with plain resistance.  However, until then, the Merlin mechanic is somewhat problematic.  It kind of ends the game with a 1/X chance of not losing. Furthermore I have participated in a couple games where it was almost ruined by a premature reveal of the merlin or other characters. I just prefer the basic asymmetric (if its real) balance of plain resistance.</td></tr><tr><td>The Resistance: Avalon</td><td>128882</td>
+<td>1</td><td>Finland</td><td>Never again. Played multiple games but still doesn't know what to do at all. I just picked targets by spinning the marker and but my reject card away and just aproved everything.</td></tr><tr><td>Crokinole</td><td>521</td>
+<td>1</td><td>United States</td><td>If this was the last game on Earth, I'd take up stamp collecting.  </td></tr><tr><td>Crokinole</td><td>521</td>
+<td>1</td><td>United States</td><td>Dexterity game</td></tr><tr><td>Troyes</td><td>73439</td>
+<td>1</td><td>United States</td><td>This game needs to be burned in a fire.</td></tr><tr><td>Ora et Labora</td><td>70149</td>
+<td>1</td><td>United States</td><td>Overly-complex Agricola ripoff. Zero fun factor. Too many ways to get points, and I'm sick of these each-player-has-a-player-mat-and-you-build-your-own-village games.</td></tr><tr><td>Ora et Labora</td><td>70149</td>
+<td>1</td><td>Germany</td><td>worst game i have played!!! so don&#180;t get hyped </td></tr><tr><td>Stone Age</td><td>34635</td>
+<td>1</td><td>Norway</td><td>Drawn-out and repetitive. I'm not fond of worker placement games in general, but this is much worse than any other I've played. For me this game is extremely dull.</td></tr><tr><td>Arcadia Quest</td><td>155068</td>
+<td>1</td><td>Spain</td><td>Lamentable juego</td></tr><tr><td>Railways of the World</td><td>17133</td>
+<td>1</td><td>United States</td><td>There are soooo many cool things you could do with a train game.  Think about it: you could have dinosaurs drive those trains.  You could have lasers mounted on your trains.  You could have Johnny Cash in it.  Any of which would be so cool, you couldn't HELP but to get a 10 rating out of it.  So what do we do?  We create a crappy Euro with your typical moronic Euro-theme.  My city turns out, let's say, TVs.  My TVs are popular, so I sell out of all of them.  What do I do?  I borrow money so that I can expand my production and make MORE TVs, right?  No.  I STOP SELLING THEM!  I ran out of cubes.  I can't make any more.  How much pot does one have to smoke in order to believe this?  Seriously?    Look, I can work with some things: let's say the dinosaurs on my train hopped off and rampaged through your city, eating everyone in sight and using their laser guns to destroy every TV.  Let's say Johnny Cash got tired of hearing that whistle blowing, so he led a prison breakout at Folsom and they looted your city and stole your TVs.  Fine.  THAT, I can work with (and admit it: both options would be so awesome).    But no, we don't do that.  We move our cubes from city to city and collect monopoly money and pay off our mortgages, or some type of Euro-crappy-nonsense.  And worst of all, unlike your typical 45-minute Ticket to Ride-type of Euro that has nothing to do with anything, you are on the hook for a few hours with this turd.  So much you could do with a train theme. :shake:  FAIL.</td></tr><tr><td>Combat Commander: Europe</td><td>21050</td>
+<td>1</td><td>United States</td><td>ASL/Up Front rip off...and a poor one at that. If you want the best forget all the rest and play ASL.</td></tr><tr><td>Chaos in the Old World</td><td>43111</td>
+<td>1</td><td>United States</td><td>Absolutely hate the theme</td></tr><tr><td>Chaos in the Old World</td><td>43111</td>
+<td>1</td><td>United States</td><td>Not a big fan of area control; but the theme is what killed it for me.</td></tr><tr><td>Chaos in the Old World</td><td>43111</td>
+<td>1</td><td>United States</td><td>Why is the title of this game in BGG not Warhammer:  Chaos of the old world.  ???  Anyway.  Horrible game.  Played with the expansion. All 5 of us were frustrated and miserable at the same time.  I'd say a game has missed its mark when no-one is having fun. </td></tr><tr><td>Ticket to Ride: Europe</td><td>14996</td>
+<td>1</td><td>United States</td><td>120909 I do NOT like ANY of the added mechanics in the game.  I don't mind the locmotive required gray route but nothing else recommended the game to me.  In fact I may bump up my TtR America rating due to this play of Europe.  The game itself was ok, but its best use is to highlight how clean and elegant the original was.  I could be talked into playing it again, but I would strenuously push for the original.</td></tr><tr><td>Mechs vs. Minions</td><td>209010</td>
+<td>1</td><td>Canada</td><td>Nothing wrong with game. I'm sure its a splendid affair. However after watching run through and or reading reviews, absolutely no desire to play.</td></tr><tr><td>Mechs vs. Minions</td><td>209010</td>
+<td>1</td><td>Ireland</td><td>Looks quite fun. Interested to check it out.</td></tr><tr><td>Cosmic Encounter</td><td>39463</td>
+<td>1</td><td>United States</td><td>Never before have I played a game where so little of the game created a narrative/story, I had so little choice in what I could do, yet was dumped on so much (and still won). I often found myself having cards leeched out of my hands by others, but no opportunity to draw new cards, participate in encounters, or even the simple consolation prize of choosing who to target for retribution when it was my turn. There is nothing that would make me play this again.</td></tr><tr><td>Age of Steam</td><td>4098</td>
+<td>1</td><td>Singapore</td><td>A math game for all I see, appeal to those who likes such games. definately not a chill out game for wargamers.  Felt that 1st and 2nd player always have an edge over others. </td></tr><tr><td>La Granja</td><td>146886</td>
+<td>1</td><td></td><td>Have you ever wondered to yourself "I wish I knew what it would be like to run every single aspect of a European farm and feel just as exhausted and bored by it as it sounds?" Well have I got the game for you!</td></tr><tr><td>Tichu</td><td>215</td>
+<td>1</td><td>Greece</td><td>Because i hate it. This game is horrible. After, making this as a java program, i promise to myself that i never will touch tichu in my hands never again. </td></tr><tr></tr><tr></tr><tr><td>Through the Ages: A New Story of Civilization</td><td>182028</td>
+<td>3</td><td>Germany</td><td>Initial 4 Player Game took 3 hours of rules preparation and 8 hours of playing Age A, I and II so we had to stop after 493 Minutes a 4:30 am. There are so many Rules its hard keep them in mind at the beginning. The missing german rulebook supported the heaviness. Nations feels way smoother than this monster although it might be a really good game if everyone is familiar with it. Not quite sure if the way, to get to this point, is maybe too long.  </td></tr><tr><td>Terra Mystica</td><td>120677</td>
+<td>3</td><td>United States</td><td>I thought for sure another play of this game would increase my rating but I was wrong. This game is too confusing at the surface level for the simplicity of the mechanics underneath. It felt too tactic-ish and not enough strategy-ish. </td></tr><tr><td>Terra Mystica</td><td>120677</td>
+<td>3</td><td></td><td>What a great theme! It really captures the essence of what it means to be a monarch directing the urban development of a society of magical terraforming mermaids!</td></tr><tr><td>7 Wonders Duel</td><td>173346</td>
+<td>3</td><td></td><td>If you focus on Military, you easily win. Scientific victory is impossible. Unbalanced, and the rulebook is not clear how you actually play the game. Only figured this out due to playing the original 7 Wonders.</td></tr><tr></tr></table></section></div></body>`;
