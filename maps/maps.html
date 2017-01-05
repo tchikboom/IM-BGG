@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Cartes</title>
+  <link rel="stylesheet" href="jquery-jvectormap-2.0.3.css" type="text/css" media="screen"/>
+  <script src="jquery/jquery.js"></script>
+  <script src="jquery/jquery-jvectormap-2.0.3.min.js"></script>
+  <script src="jquery/jquery-jvectormap-world-mill.js"></script>
+  <script src="map_mecanique/moyenne.js"></script>
+  <script src="map_mecanique/top.js"></script>
+  <script src="map_mecanique/top2.js"></script>
+  <script src="map_jeu/jeu1.js"></script>
+  <script src="map_jeu/jeu2.js"></script>
+</head>
+<body>
+  <h1>Top mécanique</h1>
+  <div id="world-map" style="width: 600px; height: 400px"></div>
+  <script>
+    $(function(){
+      $('#world-map').vectorMap({
+    map: 'world_mill',
+  series: {
+    regions: [{
+      values: moyenne,
+      scale: ['#C8EEFF', '#0071A4'],
+      normalizeFunction: 'polynomial'
+    }]
+  },
+  onRegionTipShow: function(e, el, code){
+    el.html(el.html()+' (Moyenne - '+moyenne[code]+')<br>');
+	el.html(el.html()+'1) '+top1[code]+'<br>');
+	el.html(el.html()+'2)'+top2[code]+'<br>');
+  }
+});
+    });
+  </script>
+  
+  <h1>Top jeu</h1>
+  <div id="map" style="width: 600px; height: 400px"></div>
+  <script>
+  $(function(){
+  var palette = ['#66C2A5', '#FC8D62', '#8DA0CB', '#E78AC3', '#A6D854'];
+      generateColors = function(){
+        var colors = {},
+            key;
+
+        for (key in map.regions) {
+          colors[key] = palette[Math.floor(Math.random()*palette.length)];
+        }
+        return colors;
+      },
+      map;
+
+  map = new jvm.Map({
+    map: 'world_mill',
+    container: $('#map'),
+    series: {
+      regions: [{
+        attribute: 'fill'
+      }]
+    },
+	onRegionTipShow: function(e, el, code){
+	el.html(el.html()+'<br>1) '+jeu1[code]+'<br>');
+	el.html(el.html()+'2)'+jeu2[code]+'<br>');
+  }
+  });
+  map.series.regions[0].setValues(generateColors());
+  $('#update-colors-button').click(function(e){
+    e.preventDefault();
+    map.series.regions[0].setValues(generateColors());
+  });
+});
+  </script>
+</body>
+</html>
