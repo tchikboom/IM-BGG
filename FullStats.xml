@@ -1,0 +1,1708 @@
+<?xml version='1.0' encoding='ASCII'?>
+<stats>
+  <jeu id="161936">
+    <nom value="Pandemic Legacy: Season 1"/>
+    <moyenne value="8.44679"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="4"/>
+    </nb_joueurs>
+    <temps_jeu value="60"/>
+    <age_minimum value="13"/>
+    <complexite value="2.7967"/>
+    <mecaniques>
+      <mecanique value="Action Point Allowance System"/>
+      <mecanique value="Co-operative Play"/>
+      <mecanique value="Hand Management"/>
+      <mecanique value="Point to Point Movement"/>
+      <mecanique value="Set Collection"/>
+      <mecanique value="Trading"/>
+      <mecanique value="Variable Player Powers"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="182028">
+    <nom value="Through the Ages: A New Story of Civilization"/>
+    <moyenne value="8.28356"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="4"/>
+    </nb_joueurs>
+    <temps_jeu value="240"/>
+    <age_minimum value="14"/>
+    <complexite value="4.2834"/>
+    <mecaniques>
+      <mecanique value="Action Point Allowance System"/>
+      <mecanique value="Auction/Bidding"/>
+      <mecanique value="Card Drafting"/>
+      <mecanique value="Hand Management"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="12333">
+    <nom value="Twilight Struggle"/>
+    <moyenne value="8.22657"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="2"/>
+    </nb_joueurs>
+    <temps_jeu value="180"/>
+    <age_minimum value="13"/>
+    <complexite value="3.5244"/>
+    <mecaniques>
+      <mecanique value="Area Control / Area Influence"/>
+      <mecanique value="Campaign / Battle Card Driven"/>
+      <mecanique value="Dice Rolling"/>
+      <mecanique value="Hand Management"/>
+      <mecanique value="Simultaneous Action Selection"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="120677">
+    <nom value="Terra Mystica"/>
+    <moyenne value="8.15017"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="5"/>
+    </nb_joueurs>
+    <temps_jeu value="150"/>
+    <age_minimum value="12"/>
+    <complexite value="3.9322"/>
+    <mecaniques>
+      <mecanique value="Route/Network Building"/>
+      <mecanique value="Variable Phase Order"/>
+      <mecanique value="Variable Player Powers"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="169786">
+    <nom value="Scythe"/>
+    <moyenne value="8.03506"/>
+    <nb_joueurs>
+      <min value="1"/>
+      <max value="5"/>
+    </nb_joueurs>
+    <temps_jeu value="115"/>
+    <age_minimum value="14"/>
+    <complexite value="3.2925"/>
+    <mecaniques>
+      <mecanique value="Area Control / Area Influence"/>
+      <mecanique value="Grid Movement"/>
+      <mecanique value="Variable Player Powers"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="102794">
+    <nom value="Caverna: The Cave Farmers"/>
+    <moyenne value="8.02968"/>
+    <nb_joueurs>
+      <min value="1"/>
+      <max value="7"/>
+    </nb_joueurs>
+    <temps_jeu value="210"/>
+    <age_minimum value="12"/>
+    <complexite value="3.7883"/>
+    <mecaniques>
+      <mecanique value="Tile Placement"/>
+      <mecanique value="Worker Placement"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="173346">
+    <nom value="7 Wonders Duel"/>
+    <moyenne value="8.01199"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="2"/>
+    </nb_joueurs>
+    <temps_jeu value="30"/>
+    <age_minimum value="10"/>
+    <complexite value="2.2478"/>
+    <mecaniques>
+      <mecanique value="Card Drafting"/>
+      <mecanique value="Set Collection"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="3076">
+    <nom value="Puerto Rico"/>
+    <moyenne value="7.99981"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="5"/>
+    </nb_joueurs>
+    <temps_jeu value="150"/>
+    <age_minimum value="12"/>
+    <complexite value="3.2935"/>
+    <mecaniques>
+      <mecanique value="Variable Phase Order"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="84876">
+    <nom value="The Castles of Burgundy"/>
+    <moyenne value="7.99348"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="4"/>
+    </nb_joueurs>
+    <temps_jeu value="90"/>
+    <age_minimum value="12"/>
+    <complexite value="3.0432"/>
+    <mecaniques>
+      <mecanique value="Dice Rolling"/>
+      <mecanique value="Set Collection"/>
+      <mecanique value="Simultaneous Action Selection"/>
+      <mecanique value="Tile Placement"/>
+      <mecanique value="Variable Phase Order"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="31260">
+    <nom value="Agricola"/>
+    <moyenne value="7.98473"/>
+    <nb_joueurs>
+      <min value="1"/>
+      <max value="5"/>
+    </nb_joueurs>
+    <temps_jeu value="150"/>
+    <age_minimum value="12"/>
+    <complexite value="3.6304"/>
+    <mecaniques>
+      <mecanique value="Area Enclosure"/>
+      <mecanique value="Card Drafting"/>
+      <mecanique value="Hand Management"/>
+      <mecanique value="Variable Phase Order"/>
+      <mecanique value="Variable Player Powers"/>
+      <mecanique value="Worker Placement"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="25613">
+    <nom value="Through the Ages: A Story of Civilization"/>
+    <moyenne value="7.95966"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="4"/>
+    </nb_joueurs>
+    <temps_jeu value="240"/>
+    <age_minimum value="12"/>
+    <complexite value="4.1673"/>
+    <mecaniques>
+      <mecanique value="Action Point Allowance System"/>
+      <mecanique value="Auction/Bidding"/>
+      <mecanique value="Card Drafting"/>
+      <mecanique value="Hand Management"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="96848">
+    <nom value="Mage Knight Board Game"/>
+    <moyenne value="7.94863"/>
+    <nb_joueurs>
+      <min value="1"/>
+      <max value="4"/>
+    </nb_joueurs>
+    <temps_jeu value="150"/>
+    <age_minimum value="14"/>
+    <complexite value="4.1896"/>
+    <mecaniques>
+      <mecanique value="Card Drafting"/>
+      <mecanique value="Co-operative Play"/>
+      <mecanique value="Deck / Pool Building"/>
+      <mecanique value="Dice Rolling"/>
+      <mecanique value="Grid Movement"/>
+      <mecanique value="Hand Management"/>
+      <mecanique value="Modular Board"/>
+      <mecanique value="Role Playing"/>
+      <mecanique value="Tile Placement"/>
+      <mecanique value="Variable Player Powers"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="115746">
+    <nom value="War of the Ring (second edition)"/>
+    <moyenne value="7.93124"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="4"/>
+    </nb_joueurs>
+    <temps_jeu value="180"/>
+    <age_minimum value="13"/>
+    <complexite value="3.9754"/>
+    <mecaniques>
+      <mecanique value="Area Control / Area Influence"/>
+      <mecanique value="Area Movement"/>
+      <mecanique value="Campaign / Battle Card Driven"/>
+      <mecanique value="Dice Rolling"/>
+      <mecanique value="Hand Management"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="164153">
+    <nom value="Star Wars: Imperial Assault"/>
+    <moyenne value="7.92229"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="5"/>
+    </nb_joueurs>
+    <temps_jeu value="120"/>
+    <age_minimum value="14"/>
+    <complexite value="3.2734"/>
+    <mecaniques>
+      <mecanique value="Dice Rolling"/>
+      <mecanique value="Grid Movement"/>
+      <mecanique value="Modular Board"/>
+      <mecanique value="Partnerships"/>
+      <mecanique value="Role Playing"/>
+      <mecanique value="Variable Player Powers"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="170216">
+    <nom value="Blood Rage"/>
+    <moyenne value="7.91963"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="4"/>
+    </nb_joueurs>
+    <temps_jeu value="90"/>
+    <age_minimum value="13"/>
+    <complexite value="2.9037"/>
+    <mecaniques>
+      <mecanique value="Action Point Allowance System"/>
+      <mecanique value="Area Control / Area Influence"/>
+      <mecanique value="Area Movement"/>
+      <mecanique value="Card Drafting"/>
+      <mecanique value="Variable Player Powers"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="2651">
+    <nom value="Power Grid"/>
+    <moyenne value="7.88254"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="6"/>
+    </nb_joueurs>
+    <temps_jeu value="120"/>
+    <age_minimum value="12"/>
+    <complexite value="3.2885"/>
+    <mecaniques>
+      <mecanique value="Auction/Bidding"/>
+      <mecanique value="Route/Network Building"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="72125">
+    <nom value="Eclipse"/>
+    <moyenne value="7.87882"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="6"/>
+    </nb_joueurs>
+    <temps_jeu value="200"/>
+    <age_minimum value="14"/>
+    <complexite value="3.6749"/>
+    <mecaniques>
+      <mecanique value="Area Control / Area Influence"/>
+      <mecanique value="Dice Rolling"/>
+      <mecanique value="Grid Movement"/>
+      <mecanique value="Modular Board"/>
+      <mecanique value="Player Elimination"/>
+      <mecanique value="Tile Placement"/>
+      <mecanique value="Variable Phase Order"/>
+      <mecanique value="Variable Player Powers"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="124742">
+    <nom value="Android: Netrunner"/>
+    <moyenne value="7.85638"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="2"/>
+    </nb_joueurs>
+    <temps_jeu value="45"/>
+    <age_minimum value="14"/>
+    <complexite value="3.3358"/>
+    <mecaniques>
+      <mecanique value="Action Point Allowance System"/>
+      <mecanique value="Hand Management"/>
+      <mecanique value="Secret Unit Deployment"/>
+      <mecanique value="Variable Player Powers"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="178900">
+    <nom value="Codenames"/>
+    <moyenne value="7.85408"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="8"/>
+    </nb_joueurs>
+    <temps_jeu value="15"/>
+    <age_minimum value="10"/>
+    <complexite value="1.3854"/>
+    <mecaniques>
+      <mecanique value="Memory"/>
+      <mecanique value="Partnerships"/>
+      <mecanique value="Pattern Recognition"/>
+      <mecanique value="Press Your Luck"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="121921">
+    <nom value="Robinson Crusoe: Adventures on the Cursed Island"/>
+    <moyenne value="7.84009"/>
+    <nb_joueurs>
+      <min value="1"/>
+      <max value="4"/>
+    </nb_joueurs>
+    <temps_jeu value="180"/>
+    <age_minimum value="14"/>
+    <complexite value="3.6813"/>
+    <mecaniques>
+      <mecanique value="Co-operative Play"/>
+      <mecanique value="Dice Rolling"/>
+      <mecanique value="Modular Board"/>
+      <mecanique value="Simultaneous Action Selection"/>
+      <mecanique value="Tile Placement"/>
+      <mecanique value="Variable Player Powers"/>
+      <mecanique value="Worker Placement"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="28720">
+    <nom value="Brass"/>
+    <moyenne value="7.82357"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="4"/>
+    </nb_joueurs>
+    <temps_jeu value="180"/>
+    <age_minimum value="13"/>
+    <complexite value="3.8737"/>
+    <mecaniques>
+      <mecanique value="Hand Management"/>
+      <mecanique value="Route/Network Building"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="35677">
+    <nom value="Le Havre"/>
+    <moyenne value="7.82282"/>
+    <nb_joueurs>
+      <min value="1"/>
+      <max value="5"/>
+    </nb_joueurs>
+    <temps_jeu value="200"/>
+    <age_minimum value="12"/>
+    <complexite value="3.7596"/>
+    <mecaniques>
+      <mecanique value="Worker Placement"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="167791">
+    <nom value="Terraforming Mars"/>
+    <moyenne value="7.80897"/>
+    <nb_joueurs>
+      <min value="1"/>
+      <max value="5"/>
+    </nb_joueurs>
+    <temps_jeu value="120"/>
+    <age_minimum value="12"/>
+    <complexite value="3.2683"/>
+    <mecaniques>
+      <mecanique value="Card Drafting"/>
+      <mecanique value="Hand Management"/>
+      <mecanique value="Tile Placement"/>
+      <mecanique value="Variable Player Powers"/>
+    </mecaniques>
+  </jeu>
+<jeu id="126163">
+    <nom value="Tzolk'in: The Mayan Calendar"/>
+    <moyenne value="7.8014"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="4"/>
+    </nb_joueurs>
+    <temps_jeu value="90"/>
+    <age_minimum value="13"/>
+    <complexite value="3.6038"/>
+    <mecaniques>
+      <mecanique value="Set Collection"/>
+      <mecanique value="Worker Placement"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="146508">
+    <nom value="T.I.M.E Stories"/>
+    <moyenne value="7.79485"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="4"/>
+    </nb_joueurs>
+    <temps_jeu value="90"/>
+    <age_minimum value="12"/>
+    <complexite value="2.6892"/>
+    <mecaniques>
+      <mecanique value="Co-operative Play"/>
+      <mecanique value="Dice Rolling"/>
+      <mecanique value="Role Playing"/>
+      <mecanique value="Storytelling"/>
+      <mecanique value="Variable Player Powers"/>
+      <mecanique value="Voting"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="122515">
+    <nom value="Keyflower"/>
+    <moyenne value="7.76518"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="6"/>
+    </nb_joueurs>
+    <temps_jeu value="120"/>
+    <age_minimum value="12"/>
+    <complexite value="3.3436"/>
+    <mecaniques>
+      <mecanique value="Auction/Bidding"/>
+      <mecanique value="Memory"/>
+      <mecanique value="Modular Board"/>
+      <mecanique value="Pick-up and Deliver"/>
+      <mecanique value="Route/Network Building"/>
+      <mecanique value="Set Collection"/>
+      <mecanique value="Tile Placement"/>
+      <mecanique value="Worker Placement"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="68448">
+    <nom value="7 Wonders"/>
+    <moyenne value="7.75863"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="7"/>
+    </nb_joueurs>
+    <temps_jeu value="30"/>
+    <age_minimum value="10"/>
+    <complexite value="2.3435"/>
+    <mecaniques>
+      <mecanique value="Card Drafting"/>
+      <mecanique value="Set Collection"/>
+      <mecanique value="Simultaneous Action Selection"/>
+      <mecanique value="Variable Player Powers"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="150376">
+    <nom value="Dead of Winter: A Crossroads Game"/>
+    <moyenne value="7.75467"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="5"/>
+    </nb_joueurs>
+    <temps_jeu value="210"/>
+    <age_minimum value="14"/>
+    <complexite value="2.999"/>
+    <mecaniques>
+      <mecanique value="Action Point Allowance System"/>
+      <mecanique value="Area Movement"/>
+      <mecanique value="Co-operative Play"/>
+      <mecanique value="Dice Rolling"/>
+      <mecanique value="Hand Management"/>
+      <mecanique value="Storytelling"/>
+      <mecanique value="Variable Player Powers"/>
+      <mecanique value="Voting"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="18602">
+    <nom value="Caylus"/>
+    <moyenne value="7.74443"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="5"/>
+    </nb_joueurs>
+    <temps_jeu value="150"/>
+    <age_minimum value="12"/>
+    <complexite value="3.8236"/>
+    <mecaniques>
+      <mecanique value="Worker Placement"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="164928">
+    <nom value="Orl&#233;ans"/>
+    <moyenne value="7.74423"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="4"/>
+    </nb_joueurs>
+    <temps_jeu value="90"/>
+    <age_minimum value="12"/>
+    <complexite value="3.1153"/>
+    <mecaniques>
+      <mecanique value="Deck / Pool Building"/>
+      <mecanique value="Point to Point Movement"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="175914">
+    <nom value="Food Chain Magnate"/>
+    <moyenne value="7.74078"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="5"/>
+    </nb_joueurs>
+    <temps_jeu value="240"/>
+    <age_minimum value="14"/>
+    <complexite value="4.2122"/>
+    <mecaniques>
+      <mecanique value="Modular Board"/>
+      <mecanique value="Route/Network Building"/>
+      <mecanique value="Simultaneous Action Selection"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="171623">
+    <nom value="The Voyages of Marco Polo"/>
+    <moyenne value="7.73401"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="4"/>
+    </nb_joueurs>
+    <temps_jeu value="100"/>
+    <age_minimum value="12"/>
+    <complexite value="3.1888"/>
+    <mecaniques>
+      <mecanique value="Card Drafting"/>
+      <mecanique value="Dice Rolling"/>
+      <mecanique value="Point to Point Movement"/>
+      <mecanique value="Set Collection"/>
+      <mecanique value="Variable Player Powers"/>
+      <mecanique value="Worker Placement"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="146021">
+    <nom value="Eldritch Horror"/>
+    <moyenne value="7.7226"/>
+    <nb_joueurs>
+      <min value="1"/>
+      <max value="8"/>
+    </nb_joueurs>
+    <temps_jeu value="240"/>
+    <age_minimum value="14"/>
+    <complexite value="3.3211"/>
+    <mecaniques>
+      <mecanique value="Co-operative Play"/>
+      <mecanique value="Dice Rolling"/>
+      <mecanique value="Point to Point Movement"/>
+      <mecanique value="Variable Player Powers"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="124361">
+    <nom value="Concordia"/>
+    <moyenne value="7.72157"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="5"/>
+    </nb_joueurs>
+    <temps_jeu value="100"/>
+    <age_minimum value="13"/>
+    <complexite value="3.1562"/>
+    <mecaniques>
+      <mecanique value="Card Drafting"/>
+      <mecanique value="Deck / Pool Building"/>
+      <mecanique value="Hand Management"/>
+      <mecanique value="Point to Point Movement"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="12493">
+    <nom value="Twilight Imperium (Third Edition)"/>
+    <moyenne value="7.70874"/>
+    <nb_joueurs>
+      <min value="3"/>
+      <max value="6"/>
+    </nb_joueurs>
+    <temps_jeu value="240"/>
+    <age_minimum value="12"/>
+    <complexite value="4.2175"/>
+    <mecaniques>
+      <mecanique value="Action Point Allowance System"/>
+      <mecanique value="Area-Impulse"/>
+      <mecanique value="Dice Rolling"/>
+      <mecanique value="Hex-and-Counter"/>
+      <mecanique value="Modular Board"/>
+      <mecanique value="Trading"/>
+      <mecanique value="Variable Phase Order"/>
+      <mecanique value="Variable Player Powers"/>
+      <mecanique value="Voting"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="62219">
+    <nom value="Dominant Species"/>
+    <moyenne value="7.70161"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="6"/>
+    </nb_joueurs>
+    <temps_jeu value="240"/>
+    <age_minimum value="14"/>
+    <complexite value="4.0265"/>
+    <mecaniques>
+      <mecanique value="Area Control / Area Influence"/>
+      <mecanique value="Card Drafting"/>
+      <mecanique value="Grid Movement"/>
+      <mecanique value="Modular Board"/>
+      <mecanique value="Tile Placement"/>
+      <mecanique value="Variable Player Powers"/>
+      <mecanique value="Worker Placement"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="163412">
+    <nom value="Patchwork"/>
+    <moyenne value="7.69774"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="2"/>
+    </nb_joueurs>
+    <temps_jeu value="30"/>
+    <age_minimum value="8"/>
+    <complexite value="1.7194"/>
+    <mecaniques>
+      <mecanique value="Card Drafting"/>
+      <mecanique value="Tile Placement"/>
+      <mecanique value="Time Track"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="132531">
+    <nom value="Roll for the Galaxy"/>
+    <moyenne value="7.69691"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="5"/>
+    </nb_joueurs>
+    <temps_jeu value="45"/>
+    <age_minimum value="13"/>
+    <complexite value="2.7586"/>
+    <mecaniques>
+      <mecanique value="Deck / Pool Building"/>
+      <mecanique value="Dice Rolling"/>
+      <mecanique value="Simultaneous Action Selection"/>
+      <mecanique value="Variable Phase Order"/>
+      <mecanique value="Variable Player Powers"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="93">
+    <nom value="El Grande"/>
+    <moyenne value="7.68993"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="5"/>
+    </nb_joueurs>
+    <temps_jeu value="120"/>
+    <age_minimum value="12"/>
+    <complexite value="3.0882"/>
+    <mecaniques>
+      <mecanique value="Area Control / Area Influence"/>
+      <mecanique value="Area Movement"/>
+      <mecanique value="Auction/Bidding"/>
+      <mecanique value="Card Drafting"/>
+      <mecanique value="Hand Management"/>
+      <mecanique value="Memory"/>
+      <mecanique value="Simultaneous Action Selection"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="28143">
+    <nom value="Race for the Galaxy"/>
+    <moyenne value="7.68884"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="4"/>
+    </nb_joueurs>
+    <temps_jeu value="60"/>
+    <age_minimum value="12"/>
+    <complexite value="2.9704"/>
+    <mecaniques>
+      <mecanique value="Hand Management"/>
+      <mecanique value="Simultaneous Action Selection"/>
+      <mecanique value="Variable Phase Order"/>
+      <mecanique value="Variable Player Powers"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="40834">
+    <nom value="Dominion: Intrigue"/>
+    <moyenne value="7.6873"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="4"/>
+    </nb_joueurs>
+    <temps_jeu value="30"/>
+    <age_minimum value="13"/>
+    <complexite value="2.4468"/>
+    <mecaniques>
+      <mecanique value="Card Drafting"/>
+      <mecanique value="Deck / Pool Building"/>
+      <mecanique value="Hand Management"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="157354">
+    <nom value="Five Tribes"/>
+    <moyenne value="7.68558"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="4"/>
+    </nb_joueurs>
+    <temps_jeu value="80"/>
+    <age_minimum value="13"/>
+    <complexite value="2.8914"/>
+    <mecaniques>
+      <mecanique value="Area Control / Area Influence"/>
+      <mecanique value="Auction/Bidding"/>
+      <mecanique value="Modular Board"/>
+      <mecanique value="Set Collection"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="205059">
+    <nom value="Mansions of Madness: Second Edition"/>
+    <moyenne value="7.67823"/>
+    <nb_joueurs>
+      <min value="1"/>
+      <max value="5"/>
+    </nb_joueurs>
+    <temps_jeu value="180"/>
+    <age_minimum value="14"/>
+    <complexite value="2.6875"/>
+    <mecaniques>
+      <mecanique value="Area Movement"/>
+      <mecanique value="Co-operative Play"/>
+      <mecanique value="Dice Rolling"/>
+      <mecanique value="Hand Management"/>
+      <mecanique value="Modular Board"/>
+      <mecanique value="Partnerships"/>
+      <mecanique value="Pick-up and Deliver"/>
+      <mecanique value="Role Playing"/>
+      <mecanique value="Variable Player Powers"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="103885">
+    <nom value="Star Wars: X-Wing Miniatures Game"/>
+    <moyenne value="7.68018"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="4"/>
+    </nb_joueurs>
+    <temps_jeu value="45"/>
+    <age_minimum value="14"/>
+    <complexite value="2.4691"/>
+    <mecaniques>
+      <mecanique value="Action / Movement Programming"/>
+      <mecanique value="Dice Rolling"/>
+      <mecanique value="Player Elimination"/>
+      <mecanique value="Simultaneous Action Selection"/>
+      <mecanique value="Variable Player Powers"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="37111">
+    <nom value="Battlestar Galactica"/>
+    <moyenne value="7.65408"/>
+    <nb_joueurs>
+      <min value="3"/>
+      <max value="6"/>
+    </nb_joueurs>
+    <temps_jeu value="240"/>
+    <age_minimum value="10"/>
+    <complexite value="3.2258"/>
+    <mecaniques>
+      <mecanique value="Area Movement"/>
+      <mecanique value="Co-operative Play"/>
+      <mecanique value="Dice Rolling"/>
+      <mecanique value="Hand Management"/>
+      <mecanique value="Partnerships"/>
+      <mecanique value="Role Playing"/>
+      <mecanique value="Variable Player Powers"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="110327">
+    <nom value="Lords of Waterdeep"/>
+    <moyenne value="7.67877"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="5"/>
+    </nb_joueurs>
+    <temps_jeu value="120"/>
+    <age_minimum value="12"/>
+    <complexite value="2.5106"/>
+    <mecaniques>
+      <mecanique value="Set Collection"/>
+      <mecanique value="Take That"/>
+      <mecanique value="Worker Placement"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="159675">
+    <nom value="Fields of Arle"/>
+    <moyenne value="7.62212"/>
+    <nb_joueurs>
+      <min value="1"/>
+      <max value="2"/>
+    </nb_joueurs>
+    <temps_jeu value="120"/>
+    <age_minimum value="13"/>
+    <complexite value="3.8818"/>
+    <mecaniques>
+      <mecanique value="Worker Placement"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="36218">
+    <nom value="Dominion"/>
+    <moyenne value="7.62147"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="4"/>
+    </nb_joueurs>
+    <temps_jeu value="30"/>
+    <age_minimum value="13"/>
+    <complexite value="2.3779"/>
+    <mecaniques>
+      <mecanique value="Card Drafting"/>
+      <mecanique value="Deck / Pool Building"/>
+      <mecanique value="Hand Management"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="183394">
+    <nom value="Viticulture Essential Edition"/>
+    <moyenne value="7.61935"/>
+    <nb_joueurs>
+      <min value="1"/>
+      <max value="6"/>
+    </nb_joueurs>
+    <temps_jeu value="90"/>
+    <age_minimum value="13"/>
+    <complexite value="2.9912"/>
+    <mecaniques>
+      <mecanique value="Hand Management"/>
+      <mecanique value="Worker Placement"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="159675">
+    <nom value="Fields of Arle"/>
+    <moyenne value="7.61969"/>
+    <nb_joueurs>
+      <min value="1"/>
+      <max value="2"/>
+    </nb_joueurs>
+    <temps_jeu value="120"/>
+    <age_minimum value="13"/>
+    <complexite value="3.8818"/>
+    <mecaniques>
+      <mecanique value="Worker Placement"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="42">
+    <nom value="Tigris &amp; Euphrates"/>
+    <moyenne value="7.60435"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="4"/>
+    </nb_joueurs>
+    <temps_jeu value="90"/>
+    <age_minimum value="12"/>
+    <complexite value="3.5307"/>
+    <mecaniques>
+      <mecanique value="Area Control / Area Influence"/>
+      <mecanique value="Hand Management"/>
+      <mecanique value="Set Collection"/>
+      <mecanique value="Tile Placement"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="2511">
+    <nom value="Sherlock Holmes Consulting Detective"/>
+    <moyenne value="7.60346"/>
+    <nb_joueurs>
+      <min value="1"/>
+      <max value="8"/>
+    </nb_joueurs>
+    <temps_jeu value="120"/>
+    <age_minimum value="10"/>
+    <complexite value="2.7723"/>
+    <mecaniques>
+      <mecanique value="Co-operative Play"/>
+      <mecanique value="Storytelling"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="102680">
+    <nom value="Trajan"/>
+    <moyenne value="7.60285"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="4"/>
+    </nb_joueurs>
+    <temps_jeu value="90"/>
+    <age_minimum value="12"/>
+    <complexite value="3.6703"/>
+    <mecaniques>
+      <mecanique value="Area Movement"/>
+      <mecanique value="Card Drafting"/>
+      <mecanique value="Hand Management"/>
+      <mecanique value="Set Collection"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="144733">
+    <nom value="Russian Railroads"/>
+    <moyenne value="7.59756"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="4"/>
+    </nb_joueurs>
+    <temps_jeu value="120"/>
+    <age_minimum value="12"/>
+    <complexite value="3.4122"/>
+    <mecaniques>
+      <mecanique value="Worker Placement"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="155426">
+    <nom value="Castles of Mad King Ludwig"/>
+    <moyenne value="7.59224"/>
+    <nb_joueurs>
+      <min value="1"/>
+      <max value="4"/>
+    </nb_joueurs>
+    <temps_jeu value="90"/>
+    <age_minimum value="13"/>
+    <complexite value="2.6558"/>
+    <mecaniques>
+      <mecanique value="Card Drafting"/>
+      <mecanique value="Pattern Building"/>
+      <mecanique value="Set Collection"/>
+      <mecanique value="Tile Placement"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="30549">
+    <nom value="Pandemic"/>
+    <moyenne value="7.58873"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="4"/>
+    </nb_joueurs>
+    <temps_jeu value="45"/>
+    <age_minimum value="8"/>
+    <complexite value="2.4321"/>
+    <mecaniques>
+      <mecanique value="Action Point Allowance System"/>
+      <mecanique value="Co-operative Play"/>
+      <mecanique value="Hand Management"/>
+      <mecanique value="Point to Point Movement"/>
+      <mecanique value="Set Collection"/>
+      <mecanique value="Variable Player Powers"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="104162">
+    <nom value="Descent: Journeys in the Dark (Second Edition)"/>
+    <moyenne value="7.57841"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="5"/>
+    </nb_joueurs>
+    <temps_jeu value="120"/>
+    <age_minimum value="14"/>
+    <complexite value="3.19"/>
+    <mecaniques>
+      <mecanique value="Action Point Allowance System"/>
+      <mecanique value="Dice Rolling"/>
+      <mecanique value="Grid Movement"/>
+      <mecanique value="Hand Management"/>
+      <mecanique value="Modular Board"/>
+      <mecanique value="Partnerships"/>
+      <mecanique value="Variable Player Powers"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="9609">
+    <nom value="War of the Ring (first edition)"/>
+    <moyenne value="7.57412"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="4"/>
+    </nb_joueurs>
+    <temps_jeu value="180"/>
+    <age_minimum value="12"/>
+    <complexite value="3.8369"/>
+    <mecaniques>
+      <mecanique value="Action Point Allowance System"/>
+      <mecanique value="Area Control / Area Influence"/>
+      <mecanique value="Area Movement"/>
+      <mecanique value="Campaign / Battle Card Driven"/>
+      <mecanique value="Dice Rolling"/>
+      <mecanique value="Hand Management"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="128882">
+    <nom value="The Resistance: Avalon"/>
+    <moyenne value="7.57329"/>
+    <nb_joueurs>
+      <min value="5"/>
+      <max value="10"/>
+    </nb_joueurs>
+    <temps_jeu value="30"/>
+    <age_minimum value="13"/>
+    <complexite value="1.7769"/>
+    <mecaniques>
+      <mecanique value="Memory"/>
+      <mecanique value="Partnerships"/>
+      <mecanique value="Simultaneous Action Selection"/>
+      <mecanique value="Variable Player Powers"/>
+      <mecanique value="Voting"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="521">
+    <nom value="Crokinole"/>
+    <moyenne value="7.56876"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="4"/>
+    </nb_joueurs>
+    <temps_jeu value="30"/>
+    <age_minimum value="8"/>
+    <complexite value="1.2874"/>
+    <mecaniques>
+      <mecanique value="Partnerships"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="73439">
+    <nom value="Troyes"/>
+    <moyenne value="7.5562"/>
+    <nb_joueurs>
+      <min value="1"/>
+      <max value="4"/>
+    </nb_joueurs>
+    <temps_jeu value="90"/>
+    <age_minimum value="12"/>
+    <complexite value="3.465"/>
+    <mecaniques>
+      <mecanique value="Area Control / Area Influence"/>
+      <mecanique value="Dice Rolling"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="103343">
+    <nom value="A Game of Thrones: The Board Game (Second Edition)"/>
+    <moyenne value="7.55339"/>
+    <nb_joueurs>
+      <min value="3"/>
+      <max value="6"/>
+    </nb_joueurs>
+    <temps_jeu value="240"/>
+    <age_minimum value="14"/>
+    <complexite value="3.6392"/>
+    <mecaniques>
+      <mecanique value="Area Control / Area Influence"/>
+      <mecanique value="Area Movement"/>
+      <mecanique value="Auction/Bidding"/>
+      <mecanique value="Hand Management"/>
+      <mecanique value="Player Elimination"/>
+      <mecanique value="Simultaneous Action Selection"/>
+      <mecanique value="Variable Player Powers"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="172386">
+    <nom value="Mombasa"/>
+    <moyenne value="7.54614"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="4"/>
+    </nb_joueurs>
+    <temps_jeu value="150"/>
+    <age_minimum value="12"/>
+    <complexite value="3.8492"/>
+    <mecaniques>
+      <mecanique value="Action / Movement Programming"/>
+      <mecanique value="Area Control / Area Influence"/>
+      <mecanique value="Card Drafting"/>
+      <mecanique value="Deck / Pool Building"/>
+      <mecanique value="Hand Management"/>
+      <mecanique value="Simultaneous Action Selection"/>
+      <mecanique value="Stock Holding"/>
+      <mecanique value="Variable Player Powers"/>
+      <mecanique value="Worker Placement"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="155068">
+    <nom value="Arcadia Quest"/>
+    <moyenne value="7.54382"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="4"/>
+    </nb_joueurs>
+    <temps_jeu value="60"/>
+    <age_minimum value="13"/>
+    <complexite value="2.5598"/>
+    <mecaniques>
+      <mecanique value="Dice Rolling"/>
+      <mecanique value="Grid Movement"/>
+      <mecanique value="Modular Board"/>
+      <mecanique value="Variable Player Powers"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="34635">
+    <nom value="Stone Age"/>
+    <moyenne value="7.54249"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="4"/>
+    </nb_joueurs>
+    <temps_jeu value="90"/>
+    <age_minimum value="10"/>
+    <complexite value="2.5058"/>
+    <mecaniques>
+      <mecanique value="Dice Rolling"/>
+      <mecanique value="Set Collection"/>
+      <mecanique value="Worker Placement"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="161970">
+    <nom value="Alchemists"/>
+    <moyenne value="7.54111"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="4"/>
+    </nb_joueurs>
+    <temps_jeu value="120"/>
+    <age_minimum value="13"/>
+    <complexite value="3.7799"/>
+    <mecaniques>
+      <mecanique value="Action Point Allowance System"/>
+      <mecanique value="Card Drafting"/>
+      <mecanique value="Hand Management"/>
+      <mecanique value="Worker Placement"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="70149">
+    <nom value="Ora et Labora"/>
+    <moyenne value="7.53923"/>
+    <nb_joueurs>
+      <min value="1"/>
+      <max value="4"/>
+    </nb_joueurs>
+    <temps_jeu value="180"/>
+    <age_minimum value="13"/>
+    <complexite value="3.8915"/>
+    <mecaniques>
+      <mecanique value="Modular Board"/>
+      <mecanique value="Pattern Building"/>
+      <mecanique value="Set Collection"/>
+      <mecanique value="Tile Placement"/>
+      <mecanique value="Worker Placement"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="177736">
+    <nom value="A Feast for Odin"/>
+    <moyenne value="7.53426"/>
+    <nb_joueurs>
+      <min value="1"/>
+      <max value="4"/>
+    </nb_joueurs>
+    <temps_jeu value="120"/>
+    <age_minimum value="12"/>
+    <complexite value="3.8396"/>
+    <mecaniques>
+      <mecanique value="Area Enclosure"/>
+      <mecanique value="Dice Rolling"/>
+      <mecanique value="Pattern Building"/>
+      <mecanique value="Press Your Luck"/>
+      <mecanique value="Tile Placement"/>
+      <mecanique value="Worker Placement"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="127023">
+    <nom value="Kemet"/>
+    <moyenne value="7.53373"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="5"/>
+    </nb_joueurs>
+    <temps_jeu value="120"/>
+    <age_minimum value="13"/>
+    <complexite value="2.9762"/>
+    <mecaniques>
+      <mecanique value="Action Point Allowance System"/>
+      <mecanique value="Area Control / Area Influence"/>
+      <mecanique value="Area Movement"/>
+      <mecanique value="Campaign / Battle Card Driven"/>
+      <mecanique value="Card Drafting"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="126042">
+    <nom value="Nations"/>
+    <moyenne value="7.52931"/>
+    <nb_joueurs>
+      <min value="1"/>
+      <max value="5"/>
+    </nb_joueurs>
+    <temps_jeu value="200"/>
+    <age_minimum value="14"/>
+    <complexite value="3.5321"/>
+    <mecaniques>
+      <mecanique value="Card Drafting"/>
+      <mecanique value="Variable Player Powers"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="146652">
+    <nom value="Legendary Encounters: An Alien Deck Building Game"/>
+    <moyenne value="7.52716"/>
+    <nb_joueurs>
+      <min value="1"/>
+      <max value="5"/>
+    </nb_joueurs>
+    <temps_jeu value="45"/>
+    <age_minimum value="17"/>
+    <complexite value="2.6997"/>
+    <mecaniques>
+      <mecanique value="Card Drafting"/>
+      <mecanique value="Co-operative Play"/>
+      <mecanique value="Deck / Pool Building"/>
+      <mecanique value="Player Elimination"/>
+      <mecanique value="Variable Player Powers"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="123260">
+    <nom value="Suburbia"/>
+    <moyenne value="7.51941"/>
+    <nb_joueurs>
+      <min value="1"/>
+      <max value="4"/>
+    </nb_joueurs>
+    <temps_jeu value="90"/>
+    <age_minimum value="8"/>
+    <complexite value="2.7745"/>
+    <mecaniques>
+      <mecanique value="Card Drafting"/>
+      <mecanique value="Set Collection"/>
+      <mecanique value="Tile Placement"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="14105">
+    <nom value="Commands &amp; Colors: Ancients"/>
+    <moyenne value="7.51722"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="2"/>
+    </nb_joueurs>
+    <temps_jeu value="60"/>
+    <age_minimum value="12"/>
+    <complexite value="2.6933"/>
+    <mecaniques>
+      <mecanique value="Campaign / Battle Card Driven"/>
+      <mecanique value="Dice Rolling"/>
+      <mecanique value="Hand Management"/>
+      <mecanique value="Hex-and-Counter"/>
+      <mecanique value="Modular Board"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="91">
+    <nom value="Paths of Glory"/>
+    <moyenne value="7.51035"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="2"/>
+    </nb_joueurs>
+    <temps_jeu value="480"/>
+    <age_minimum value="14"/>
+    <complexite value="3.7993"/>
+    <mecaniques>
+      <mecanique value="Campaign / Battle Card Driven"/>
+      <mecanique value="Dice Rolling"/>
+      <mecanique value="Point to Point Movement"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="147020">
+    <nom value="Star Realms"/>
+    <moyenne value="7.50515"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="2"/>
+    </nb_joueurs>
+    <temps_jeu value="20"/>
+    <age_minimum value="12"/>
+    <complexite value="1.9705"/>
+    <mecaniques>
+      <mecanique value="Card Drafting"/>
+      <mecanique value="Deck / Pool Building"/>
+      <mecanique value="Player Elimination"/>
+      <mecanique value="Take That"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="17133">
+    <nom value="Railways of the World"/>
+    <moyenne value="7.49967"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="6"/>
+    </nb_joueurs>
+    <temps_jeu value="120"/>
+    <age_minimum value="10"/>
+    <complexite value="3.031"/>
+    <mecaniques>
+      <mecanique value="Action Point Allowance System"/>
+      <mecanique value="Auction/Bidding"/>
+      <mecanique value="Card Drafting"/>
+      <mecanique value="Pick-up and Deliver"/>
+      <mecanique value="Route/Network Building"/>
+      <mecanique value="Tile Placement"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="21050">
+    <nom value="Combat Commander: Europe"/>
+    <moyenne value="7.49337"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="2"/>
+    </nb_joueurs>
+    <temps_jeu value="180"/>
+    <age_minimum value="12"/>
+    <complexite value="3.2058"/>
+    <mecaniques>
+      <mecanique value="Campaign / Battle Card Driven"/>
+      <mecanique value="Hex-and-Counter"/>
+      <mecanique value="Simulation"/>
+      <mecanique value="Variable Phase Order"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="125153">
+    <nom value="The Gallerist"/>
+    <moyenne value="7.48807"/>
+    <nb_joueurs>
+      <min value="1"/>
+      <max value="4"/>
+    </nb_joueurs>
+    <temps_jeu value="150"/>
+    <age_minimum value="13"/>
+    <complexite value="4.2754"/>
+    <mecaniques>
+      <mecanique value="Commodity Speculation"/>
+      <mecanique value="Set Collection"/>
+      <mecanique value="Worker Placement"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="14996">
+    <nom value="Ticket to Ride: Europe"/>
+    <moyenne value="7.48413"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="5"/>
+    </nb_joueurs>
+    <temps_jeu value="60"/>
+    <age_minimum value="8"/>
+    <complexite value="1.9648"/>
+    <mecaniques>
+      <mecanique value="Card Drafting"/>
+      <mecanique value="Hand Management"/>
+      <mecanique value="Route/Network Building"/>
+      <mecanique value="Set Collection"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="43111">
+    <nom value="Chaos in the Old World"/>
+    <moyenne value="7.48344"/>
+    <nb_joueurs>
+      <min value="3"/>
+      <max value="4"/>
+    </nb_joueurs>
+    <temps_jeu value="120"/>
+    <age_minimum value="13"/>
+    <complexite value="3.1625"/>
+    <mecaniques>
+      <mecanique value="Action Point Allowance System"/>
+      <mecanique value="Area Control / Area Influence"/>
+      <mecanique value="Area Movement"/>
+      <mecanique value="Dice Rolling"/>
+      <mecanique value="Hand Management"/>
+      <mecanique value="Role Playing"/>
+      <mecanique value="Take That"/>
+      <mecanique value="Variable Player Powers"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="27833">
+    <nom value="Steam"/>
+    <moyenne value="7.46976"/>
+    <nb_joueurs>
+      <min value="3"/>
+      <max value="5"/>
+    </nb_joueurs>
+    <temps_jeu value="90"/>
+    <age_minimum value="10"/>
+    <complexite value="3.4534"/>
+    <mecaniques>
+      <mecanique value="Auction/Bidding"/>
+      <mecanique value="Pick-up and Deliver"/>
+      <mecanique value="Route/Network Building"/>
+      <mecanique value="Tile Placement"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="39463">
+    <nom value="Cosmic Encounter"/>
+    <moyenne value="7.46754"/>
+    <nb_joueurs>
+      <min value="3"/>
+      <max value="5"/>
+    </nb_joueurs>
+    <temps_jeu value="120"/>
+    <age_minimum value="12"/>
+    <complexite value="2.5506"/>
+    <mecaniques>
+      <mecanique value="Hand Management"/>
+      <mecanique value="Partnerships"/>
+      <mecanique value="Take That"/>
+      <mecanique value="Variable Player Powers"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="9216">
+    <nom value="Goa"/>
+    <moyenne value="7.46686"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="4"/>
+    </nb_joueurs>
+    <temps_jeu value="90"/>
+    <age_minimum value="12"/>
+    <complexite value="3.3878"/>
+    <mecaniques>
+      <mecanique value="Auction/Bidding"/>
+      <mecanique value="Hand Management"/>
+      <mecanique value="Press Your Luck"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="128621">
+    <nom value="Viticulture"/>
+    <moyenne value="7.46611"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="6"/>
+    </nb_joueurs>
+    <temps_jeu value="90"/>
+    <age_minimum value="13"/>
+    <complexite value="2.9324"/>
+    <mecaniques>
+      <mecanique value="Hand Management"/>
+      <mecanique value="Worker Placement"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="175155">
+    <nom value="Forbidden Stars"/>
+    <moyenne value="7.46122"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="4"/>
+    </nb_joueurs>
+    <temps_jeu value="180"/>
+    <age_minimum value="14"/>
+    <complexite value="3.7314"/>
+    <mecaniques>
+      <mecanique value="Area Control / Area Influence"/>
+      <mecanique value="Dice Rolling"/>
+      <mecanique value="Hand Management"/>
+      <mecanique value="Modular Board"/>
+      <mecanique value="Variable Player Powers"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="101721">
+    <nom value="Mage Wars Arena"/>
+    <moyenne value="7.45384"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="2"/>
+    </nb_joueurs>
+    <temps_jeu value="90"/>
+    <age_minimum value="13"/>
+    <complexite value="3.625"/>
+    <mecaniques>
+      <mecanique value="Dice Rolling"/>
+      <mecanique value="Grid Movement"/>
+      <mecanique value="Simultaneous Action Selection"/>
+      <mecanique value="Variable Player Powers"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="148228">
+    <nom value="Splendor"/>
+    <moyenne value="7.45221"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="4"/>
+    </nb_joueurs>
+    <temps_jeu value="30"/>
+    <age_minimum value="10"/>
+    <complexite value="1.8432"/>
+    <mecaniques>
+      <mecanique value="Card Drafting"/>
+      <mecanique value="Set Collection"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="555">
+    <nom value="The Princes of Florence"/>
+    <moyenne value="7.44935"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="5"/>
+    </nb_joueurs>
+    <temps_jeu value="100"/>
+    <age_minimum value="12"/>
+    <complexite value="3.2526"/>
+    <mecaniques>
+      <mecanique value="Auction/Bidding"/>
+      <mecanique value="Tile Placement"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="148949">
+    <nom value="Istanbul"/>
+    <moyenne value="7.44868"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="5"/>
+    </nb_joueurs>
+    <temps_jeu value="60"/>
+    <age_minimum value="10"/>
+    <complexite value="2.6153"/>
+    <mecaniques>
+      <mecanique value="Dice Rolling"/>
+      <mecanique value="Grid Movement"/>
+      <mecanique value="Modular Board"/>
+      <mecanique value="Pick-up and Deliver"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="4098">
+    <nom value="Age of Steam"/>
+    <moyenne value="7.4472"/>
+    <nb_joueurs>
+      <min value="1"/>
+      <max value="6"/>
+    </nb_joueurs>
+    <temps_jeu value="120"/>
+    <age_minimum value="13"/>
+    <complexite value="3.927"/>
+    <mecaniques>
+      <mecanique value="Auction/Bidding"/>
+      <mecanique value="Dice Rolling"/>
+      <mecanique value="Route/Network Building"/>
+      <mecanique value="Tile Placement"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="77423">
+    <nom value="The Lord of the Rings: The Card Game"/>
+    <moyenne value="7.44454"/>
+    <nb_joueurs>
+      <min value="1"/>
+      <max value="2"/>
+    </nb_joueurs>
+    <temps_jeu value="60"/>
+    <age_minimum value="13"/>
+    <complexite value="3.1102"/>
+    <mecaniques>
+      <mecanique value="Co-operative Play"/>
+      <mecanique value="Hand Management"/>
+      <mecanique value="Variable Player Powers"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="146886">
+    <nom value="La Granja"/>
+    <moyenne value="7.44009"/>
+    <nb_joueurs>
+      <min value="1"/>
+      <max value="4"/>
+    </nb_joueurs>
+    <temps_jeu value="120"/>
+    <age_minimum value="12"/>
+    <complexite value="3.5812"/>
+    <mecaniques>
+      <mecanique value="Area Control / Area Influence"/>
+      <mecanique value="Dice Rolling"/>
+      <mecanique value="Hand Management"/>
+      <mecanique value="Simultaneous Action Selection"/>
+      <mecanique value="Variable Player Powers"/>
+      <mecanique value="Worker Placement"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="43015">
+    <nom value="Hansa Teutonica"/>
+    <moyenne value="7.42943"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="5"/>
+    </nb_joueurs>
+    <temps_jeu value="90"/>
+    <age_minimum value="12"/>
+    <complexite value="3.1325"/>
+    <mecaniques>
+      <mecanique value="Action Point Allowance System"/>
+      <mecanique value="Area Control / Area Influence"/>
+      <mecanique value="Point to Point Movement"/>
+      <mecanique value="Route/Network Building"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="193738">
+    <nom value="Great Western Trail"/>
+    <moyenne value="7.42704"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="4"/>
+    </nb_joueurs>
+    <temps_jeu value="150"/>
+    <age_minimum value="12"/>
+    <complexite value="3.7387"/>
+    <mecaniques>
+      <mecanique value="Deck / Pool Building"/>
+      <mecanique value="Hand Management"/>
+      <mecanique value="Point to Point Movement"/>
+      <mecanique value="Tile Placement"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="188">
+    <nom value="Go"/>
+    <moyenne value="7.42459"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="2"/>
+    </nb_joueurs>
+    <temps_jeu value="90"/>
+    <age_minimum value="8"/>
+    <complexite value="3.9684"/>
+    <mecaniques>
+      <mecanique value="Area Enclosure"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="104006">
+    <nom value="Village"/>
+    <moyenne value="7.42382"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="4"/>
+    </nb_joueurs>
+    <temps_jeu value="90"/>
+    <age_minimum value="12"/>
+    <complexite value="3.0761"/>
+    <mecaniques>
+      <mecanique value="Set Collection"/>
+      <mecanique value="Worker Placement"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="215">
+    <nom value="Tichu"/>
+    <moyenne value="7.42222"/>
+    <nb_joueurs>
+      <min value="3"/>
+      <max value="10"/>
+    </nb_joueurs>
+    <temps_jeu value="60"/>
+    <age_minimum value="10"/>
+    <complexite value="2.3528"/>
+    <mecaniques>
+      <mecanique value="Betting/Wagering"/>
+      <mecanique value="Hand Management"/>
+      <mecanique value="Partnerships"/>
+      <mecanique value="Trick-taking"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="54043">
+    <nom value="Jaipur"/>
+    <moyenne value="7.4193"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="2"/>
+    </nb_joueurs>
+    <temps_jeu value="30"/>
+    <age_minimum value="12"/>
+    <complexite value="1.5397"/>
+    <mecaniques>
+      <mecanique value="Card Drafting"/>
+      <mecanique value="Hand Management"/>
+      <mecanique value="Set Collection"/>
+    </mecaniques>
+  </jeu>
+  <jeu id="31627">
+    <nom value="Ticket to Ride: Nordic Countries"/>
+    <moyenne value="7.41891"/>
+    <nb_joueurs>
+      <min value="2"/>
+      <max value="3"/>
+    </nb_joueurs>
+    <temps_jeu value="60"/>
+    <age_minimum value="8"/>
+    <complexite value="1.9979"/>
+    <mecaniques>
+      <mecanique value="Card Drafting"/>
+      <mecanique value="Hand Management"/>
+      <mecanique value="Route/Network Building"/>
+      <mecanique value="Set Collection"/>
+    </mecaniques>
+  </jeu>
+</stats>
